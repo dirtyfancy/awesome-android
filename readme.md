@@ -534,6 +534,7 @@ My personal recommendation is (for now) to use the android api to build a native
 - [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - A base project using the Uncle Bob's clean architecture with Kotlin language and the latest Android technologies.
 - [Koin](https://insert-koin.io/) - Lightweight dependency injection framework for Kotlin
 - [AppDimens](https://github.com/bodenberg/appdimens) - Smart Responsive Dimensions for Any Screen (FX, DY, DP, SP, Logarithmic)
+- [Easemic](https://github.com/dirtyfancy/easemic) - Native Android comic and manga reader with OPDS and encrypted cloud storage support.
 
 ### Flutter
 - [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
